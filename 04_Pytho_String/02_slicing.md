@@ -16,4 +16,5 @@ print(b[2:5])
 llo
 ```
 
-:! Note
+> [!NOTE]
+>  The first character has index 0.
