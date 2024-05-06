@@ -28,3 +28,11 @@ print(type(x))
  int
 
 ```
+
+## Data Types
+![image](https://github.com/sachindaksh01/python/assets/105046378/39da1a27-5726-4ec5-a1aa-54cd5eb77d09)
+
+![image](https://github.com/sachindaksh01/python/assets/105046378/8b5f7145-1fd7-4dab-b890-376bf73ae911)
+
+
+
