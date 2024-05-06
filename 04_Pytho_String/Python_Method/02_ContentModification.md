@@ -216,3 +216,23 @@ of all fruits banana     is my favorite
 
 
 
+
+## 11. split() Method in Python string
++ The split() method splits a string into a list.
++ You can specify the separator, default separator is any whitespace.
++ Note: When maxsplit is specified, the list will contain the specified number of elements plus one.
+  
+### Example : A
+Split a string into a list where each word is a list item:
+
+```python
+txt = "welcome to the jungle"
+x = txt.split()
+print(x)
+
+```
+### Output: A
+```
+['welcome', 'to', 'the', 'jungle']
+```
+
