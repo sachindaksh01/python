@@ -4,16 +4,17 @@
 + expandtabs()
 + join()
 + ljust()
-+ lstrip()
 + partition()
 + replace()
 + rjust()
 + rsplit()
 + rstrip()
++ lstrip()
 + split()
 + splitlines()
 + strip()
 + zfill()
+
 
 ## 1. center() Method in Python string
 The center() method will center align the string, using a specified character (space is default) as the fill character.
@@ -131,6 +132,25 @@ I like apples
 ```
 
 
+
+## 7. rjust() Method in Python string
++ Note: In the result, there are actually 14 whitespaces to the left of the word banana.
++ The rjust() method will right align the string, using a specified character (space is default) as the fill character.
+
+### Example : A
++ Return a 20 characters long, right justified version of the word "banana":
+
+
+```python
+txt = "banana"
+x = txt.rjust(20)
+print(x, "is my favorite fruit.")
+
+```
+### Output: A
+```
+              banana is my favorite fruit.
+```
 
 
 
