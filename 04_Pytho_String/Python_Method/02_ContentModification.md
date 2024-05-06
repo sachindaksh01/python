@@ -155,4 +155,64 @@ print(x, "is my favorite fruit.")
 
 
 
+## 8. rsplit() Method in Python string
++ The rsplit() method splits a string into a list, starting from the right.
++ If no "max" is specified, this method will return the same as the split() method.
++ Note: When maxsplit is specified, the list will contain the specified number of elements plus one.
+
+### Example : A
+Split a string into a list, using comma, followed by a space (, ) as the separator:
+
+
+
+```python
+txt = "apple, banana, cherry"
+x = txt.rsplit(",+ ")
+print(x)
+
+```
+### Output: A
+```
+['apple, banana, cherry']
+```
+
+
+
+## 9. rstrip() Method in Python string
+The rstrip() method removes any trailing characters (characters at the end a string), space is the default trailing character to remove.
+
+### Example : A
+Remove any white spaces at the end of the string:
+
+```python
+txt = "     banana     "
+x = txt.rstrip()
+print("of all fruits", x, "is my favorite")
+
+```
+### Output: A
+```
+of all fruits     banana is my favorite
+```
+
+
+
+## 10. lstrip() Method in Python string
+The lstrip() method removes any leading characters (space is the default leading character to remove)
+
+### Example : A
+Remove spaces to the left of the string:
+
+```python
+txt = "     banana     "
+x = txt.lstrip()
+print("of all fruits", x, "is my favorite")
+
+```
+### Output: A
+```
+of all fruits banana     is my favorite
+```
+
+
 
