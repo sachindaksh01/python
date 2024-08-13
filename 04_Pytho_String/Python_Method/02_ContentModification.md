@@ -243,7 +243,6 @@ print(x)
 ## 12. splitlines() Method in Python string
 + Split a string into a list where each line is a list item:
 + The splitlines() method splits a string into a list. The splitting is done at line breaks.
-
   
 ### Example : A
 Split the string, but keep the line breaks:
@@ -258,6 +257,81 @@ print(x)
 ```
 ['Thank you for the music\n', 'Welcome to the jungle']
 ```
+
+
+
+
+## 13. strip() Method in Python string
++ Remove spaces at the beginning and at the end of the string:
++ The strip() method removes any leading, and trailing whitespaces.
++ Leading means at the beginning of the string, trailing means at the end.
++ You can specify which character(s) to remove, if not, any whitespaces will be removed.
+  
+### Example : A
+Remove the leading and trailing characters:
+
+```python
+txt = ",,,,,rrttgg.....banana....rrr"
+x = txt.strip(",.grt")
+print(x)
+
+```
+### Output: A
+```
+banana
+```
+
+
+
+
+
+## 14. zfill() Method in Python string
++ The zfill() method adds zeros (0) at the beginning of the string, until it reaches the specified length.
++ If the value of the len parameter is less than the length of the string, no filling is done.
+ 
+### Example : A
+Fill the strings with zeros until they are 10 characters long:
+
+```python
+a = "hello"
+b = "welcome to the jungle"
+c = "10.000"
+
+print(a.zfill(10))
+print(b.zfill(10))
+print(c.zfill(10))
+
+```
+### Output: A
+```
+00000hello
+welcome to the jungle
+000010.000
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
