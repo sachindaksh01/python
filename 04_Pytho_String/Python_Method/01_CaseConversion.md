@@ -1,11 +1,11 @@
 # Python Module Related to - Case Conversion:
 
-+ capitalize()
-+ casefold()
-+ lower()
-+ upper()
-+ swapcase()
-+ title()
++ [capitalize()](#1-capitalize-method-in-python-string)
++ [casefold()](#2-casefold-method-in-python-string)
++ [lower()](#3-lower-method-in-python-string)
++ [upper()](#4-upper-method-in-python-string)
++ [swapcase()](#5-swapcase-method-in-python-string)
++ [title()](#6-title-method-in-python-string)
 
 
 
