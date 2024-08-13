@@ -1,19 +1,19 @@
 # Python Module Related to - Content Modification:
 
 + [center()](#1-center-method-in-python-string)
-+ [expandtabs()](#2)
-+ join()
-+ ljust()
-+ partition()
-+ replace()
-+ rjust()
-+ rsplit()
-+ rstrip()
-+ lstrip()
-+ split()
-+ splitlines()
-+ strip()
-+ zfill()
++ [expandtabs()](#2-expandtabs-method-in-python-string)
++ [join()](#3-join-method-in-python-string)
++ [ljust()](#4-ljust-method-in-python-string)
++ [partition()](#5-partition-method-in-python-string)
++ [replace()](#6-replace-method-in-python-string)
++ [rjust()](#7-rjust-method-in-python-string)
++ [rsplit()](#8-rsplit-method-in-python-string)
++ [rstrip()]([#9-rstrip-method-in-python-string))
++ [lstrip()](#10-lstrip-method-in-python-string)
++ [split()](#11-split-method-in-python-string)
++ [splitlines()](#12-splitlines-method-in-python-string)
++ [strip()](#13-strip-method-in-python-string)
++ [zfill()](#14-zfill-method-in-python-string)
 
 
 ## 1. center() Method in Python string
