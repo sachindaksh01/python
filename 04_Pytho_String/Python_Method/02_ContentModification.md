@@ -236,3 +236,32 @@ print(x)
 ['welcome', 'to', 'the', 'jungle']
 ```
 
+
+
+
+
+## 12. splitlines() Method in Python string
++ Split a string into a list where each line is a list item:
++ The splitlines() method splits a string into a list. The splitting is done at line breaks.
+
+  
+### Example : A
+Split the string, but keep the line breaks:
+
+```python
+txt = "Thank you for the music\nWelcome to the jungle"
+x = txt.splitlines(True)
+print(x)
+
+```
+### Output: A
+```
+['Thank you for the music\n', 'Welcome to the jungle']
+```
+
+
+
+
+
+
+
