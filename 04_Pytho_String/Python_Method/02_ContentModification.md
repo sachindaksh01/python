@@ -8,7 +8,7 @@
 + [replace()](#6-replace-method-in-python-string)
 + [rjust()](#7-rjust-method-in-python-string)
 + [rsplit()](#8-rsplit-method-in-python-string)
-+ [rstrip()]([#9-rstrip-method-in-python-string))
++ [rstrip()]([#9-rstrip-method-in-python-string)
 + [lstrip()](#10-lstrip-method-in-python-string)
 + [split()](#11-split-method-in-python-string)
 + [splitlines()](#12-splitlines-method-in-python-string)
