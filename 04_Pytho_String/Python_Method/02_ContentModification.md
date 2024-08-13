@@ -1,7 +1,7 @@
 # Python Module Related to - Content Modification:
 
 + [center()](#1-center-method-in-python-string)
-+ expandtabs()
++ [expandtabs()](#2)
 + join()
 + ljust()
 + partition()
