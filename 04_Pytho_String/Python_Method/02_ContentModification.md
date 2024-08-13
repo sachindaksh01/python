@@ -1,6 +1,6 @@
 # Python Module Related to - Content Modification:
 
-+ center()
++ [center()](#1-center-method-in-python-string)
 + expandtabs()
 + join()
 + ljust()
